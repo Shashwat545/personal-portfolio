@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://www.linkedin.com/in/shashwatsingh545/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Shashwat545",
   linkedin: "https://www.linkedin.com/in/shashwatsingh545/",
-  gmail: "shashwatsingh545@gmail.com",
+  gmail: "20me02039@iitbbs.ac.in",
   instagram: "https://www.instagram.com/_shashwat_11/",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
@@ -55,9 +55,9 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Implement backend using both RDBMS (PostresQL) or NoSQL (MongoDB)"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Virtual Hosting using Apache and Linux"
     )
   ],
 
@@ -86,12 +86,28 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-brands fa-java"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-brands fa-git"
+    },
+    {
+      skillName: "Bootstrap",
+      fontAwesomeClassname: "fab fa-brands fa-bootstrap"
+    },
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-brands fa-linux"
+    },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-brands fa-python"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "npm",
@@ -101,14 +117,14 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    // {
+    //   skillName: "aws",
+    //   fontAwesomeClassname: "fab fa-aws"
+    // },
+    // {
+    //   skillName: "firebase",
+    //   fontAwesomeClassname: "fas fa-fire"
+    // },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
@@ -367,7 +383,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   // number: "+92-0000000000",
-  email_address: "shashwatsingh545@gmail.com"
+  email_address: "20me02039@iitbbs.ac.in"
 };
 
 // Twitter Section
